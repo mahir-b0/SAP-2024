@@ -19,7 +19,7 @@ The investigation is structured across four interconnected repositories, each ho
 3. **[Basilisk](https://github.com/mahir-b0/basilisk)**  
    Focuses on steganography challenges. Successfully solving these challenges yields keys that unlock access to the next phase.
 
-4. **[Pinnochio](https://github.com/mahir-b0/pinnochio)**  
+4. **[Pinocchio](https://github.com/mahir-b0/pinocchio)**  
    A web application hosting an SQL injection challenge. Solving this challenge reveals critical information that links back to Funnelweb, where the final cryptography challenge awaits.
 
 ## Project Flow
