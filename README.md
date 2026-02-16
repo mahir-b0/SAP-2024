@@ -1,6 +1,6 @@
-# SAP-2024
+# Funnelweb
 
-Welcome to my **SAP**, a mock cyber forensics investigation project designed to test and enhance skills in OSINT, cryptography, steganography, and web exploitation. This project takes participants on a journey to solve a murder mystery by piecing together clues and ultimately obtaining a confession from the killer.
+Welcome to **Funnelweb**, a mock cyber forensics investigation project designed to test and enhance skills in OSINT, cryptography, steganography, and web exploitation. This project takes participants on a journey to solve a murder mystery by piecing together clues and ultimately obtaining a confession from the killer.
 
 ![Screenshot 2024-12-01 223510](https://github.com/user-attachments/assets/791e022b-be4c-4ae0-94fa-a2a0783e7489)
 
